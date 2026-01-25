@@ -1,0 +1,7 @@
+[  454.264718] Loading Module
+[  454.264723] init_task pid: 0
+[  454.264725] init_task state: 0
+[  454.264725] init_task flags: 69206018
+[  454.264726] init_task runtime priority: 0
+[  454.264727] init_task process policy: 0
+[  454.264728] init_task tgid: 0
